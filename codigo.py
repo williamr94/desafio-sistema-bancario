@@ -9,7 +9,7 @@ Utilize os números do teclado!
 [3] Extrato
 [4] Sair
 
-======== desenvolvido por: William Ramos / realease: 13/09/2024 =============
+======== desenvolvido por: William Ramos / release: 13/09/2024 =============
 => """
 
 titulo_extrato = " EXTRATO BANCÁRIO "
